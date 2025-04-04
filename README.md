@@ -23,7 +23,7 @@ Ghostgram is an anonyms messaging platform that allow uses to receive or send me
 To clone the repository locally, use the following commands:
 
 ```bash
-git clone https://github.com/your-username/ghostgram.git 
+git clone https://github.com/chetanchaudhari789/Ghostgram.git
 cd ghostgram
 ```
 
