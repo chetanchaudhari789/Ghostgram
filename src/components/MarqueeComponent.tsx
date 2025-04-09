@@ -7,7 +7,7 @@ import Marquee from "./ui/marquee";
 const reviews = [
     {
         name: "Anonymous",
-        username: "@chetan_chaudhari",
+        username: "@chetan",
         body: "What’s one thing you wish people understood about you but rarely do?",
         img: "https://avatar.vercel.sh/jack",
     },
